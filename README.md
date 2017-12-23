@@ -5,6 +5,11 @@ CSCI 2461 Computer Architecture: Project 5 (Final) <br>
 Professor Bhagirath Narahari <br>
 The George Washington University, Fall 2015 <br><br>
 
+* Note - Made this for computer architecture during my sophomore year before I even knew what information retrieval was.
+Stoked I still have this, definitely want to play with this in the future.
+* Description below comes from original README.txt
+
+
 
 *****************************
 *Text Document Search Engine*
@@ -52,7 +57,7 @@ Features/Things to Know
 
 -----
 To-Do
-- Testing on Shell <!-- + Testing with actual paths -->
+<!-- - Testing on Shell + Testing with actual paths -->
 
 --------------
 Additions Made
