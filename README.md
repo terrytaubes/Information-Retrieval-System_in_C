@@ -1,7 +1,7 @@
 # Information-Retrieval-System_in_C
 ### Basic Information Retrieval System using TF-IDF, implemented in C.
 
-CSCI 2461 Computer Architecture: Project 5 (Final) <br>
+CSCI 2461 Computer Architecture: Project 5 [Final Assignment] <br>
 Professor Bhagirath Narahari <br>
 The George Washington University, Fall 2015 <br><br>
 
