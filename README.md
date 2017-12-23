@@ -6,7 +6,7 @@ Professor Bhagirath Narahari <br>
 The George Washington University, Fall 2015 <br><br>
 
 * Note - Made this for computer architecture during my sophomore year before I even knew what information retrieval was.
-Stoked I still have this, definitely want to play with this in the future.
+Very happy I still have this.
 * Description below comes from original README.txt
 
 
